@@ -1,24 +1,30 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
 
-html, body {
-  margin: 0;
-  padding: 0;
-  text-align: center;
+html,
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
 }
 canvas {
-  padding-left: 0;
-  padding-right: 0;
-  margin-left: auto;
-  margin-right: auto;
-  display: block;
-  border: outset;
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border: outset;
 }
 
 button {
-  padding: 1em;
-  margin: 1em;
-  background: darkblue;
-  font-family: 'Montserrat', sans-serif;
-  font-size: 20px;
-  color: white;
+    padding: 1em;
+    border-style: none;
+    border-color: black;
+    border-radius: 1em;
+    background: none;
+    margin: 1em;
+    background: linear-gradient(90deg, #00ffff 0.01%, #0038ff 100%);
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    color: white;
+    outline: none;
 }
