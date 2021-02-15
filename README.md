@@ -45,7 +45,7 @@ Or using _GitHub CLI_ -
 
 ##### <u>Option 2 - Download zip</u>
 
--   Click here - [`⬇ Zip`](https://github.com/damushypotato/p5js-Project-Template)
+-   Click here - [`⬇ Zip`](https://github.com/damushypotato/p5js-Project-Template/archives/master.zip)
 
     > (If that doesn't work - Click on the green `⬇ Code` button at the top and select `Download ZIP`)
 
