@@ -19,7 +19,7 @@
 
 <u>Libraries last updated by me - **`Feb 15, 2021`**</u>
 
-(Will try to keep up to date but you can download/cdn any version you like)_
+(Will try to keep up to date but you can download/cdn any version you like)
 
 ---
 
